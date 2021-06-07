@@ -2,12 +2,18 @@
 
 Programming / Photography / Visual Effects
 
-~~不会写全栈的技术美术不是好摄影师~~
+~~*不会全栈的技术美术不是好摄影师*~~
 
+<!--
 - ⚡ **Tools:** Visual Studio, JetBrains series, Qt Creator and so on.  
 - 💻 **Languages:** C++,Javascript,C#,GLSL.
+-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BladeHiker&layout=compact&hide=C)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=BladeHiker&show_icons=true">
+
 
 <!--
 **BladeHiker/BladeHiker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
