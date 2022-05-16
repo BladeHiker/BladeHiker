@@ -4,6 +4,8 @@ Programming / Photography / Visual Effects
 
 ~~*不会全栈的技术美术不是好摄影师*~~
 
+~~*不会Houdini的C++开发不是好工具人*~~
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BladeHiker&layout=compact&hide=C)](https://github.com/anuraghazra/github-readme-stats)
 
 
